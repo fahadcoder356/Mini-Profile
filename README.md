@@ -1,5 +1,5 @@
 # Mini-Profile
-First python program by me. I want appreciation from all of you
+First Python project by an IPE student | Learning data analytics → future factory owner
 
 Made with love as a Bangladeshi Boy ~ Fahad
 ### What it does:
