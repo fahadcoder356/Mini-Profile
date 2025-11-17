@@ -14,3 +14,9 @@ Made with love as a Bangladeshi Boy ~ Fahad
 2. Copy all code
 3. Run in Thonny / PyCharm / replit.com
 
+### About me
+Industrial & Production Engineering student  
+Learning data analytics to solve factory problems  
+One day In sha Allah → my own manufacturing company
+
+⭐ Star if you like it – it means a lot to a beginner!
